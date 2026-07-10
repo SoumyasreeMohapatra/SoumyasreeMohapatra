@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **soumyasreemohapatra17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** ML  basics
+- 🌱 **I’m currently working on tech projects.
 - 📫 **How to reach me:** soumyasreemohapatra17@gmail.com
   
 ## 🌐 Socials:
