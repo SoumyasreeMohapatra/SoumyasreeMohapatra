@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Soumyasree Mohapatra
-**A passionate full stack|| AI/ML developer  from India**
+**A passionate data analyst and AI/ML developer  from India**
 
 Email Me 👉 ✉️ **soumyasreemohapatra17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
