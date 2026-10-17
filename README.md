@@ -53,9 +53,9 @@ Email Me 👉 ✉️ **soumyasreemohapatra17@gmail.com** For Collaboration/Proje
 </div>
 
 
-![](https://github-readme-stats.vercel.app/api?username=SoumyasreeMohapatra-09&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SoumyasreeMohapatra-09&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyasreeMohapatra-09&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SoumyasreeMohapatra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SoumyasreeMohapatra&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyasreeMohapatra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
